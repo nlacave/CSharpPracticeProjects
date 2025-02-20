@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lacav\\Documents\\Cursos\\C#\\CSharpPracticeProjects\\MetersToFeetConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3E865A-82AE-4205-A31C-94ECDEB428D9}|MetersToFeetConverter\\MetersToFeetConverter.csproj|c:\\users\\lacav\\documents\\cursos\\c#\\csharppracticeprojects\\meterstofeetconverter\\meterstofeetconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3E865A-82AE-4205-A31C-94ECDEB428D9}|MetersToFeetConverter\\MetersToFeetConverter.csproj|solutionrelative:meterstofeetconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lacav\\Documents\\Cursos\\C#\\CSharpPracticeProjects\\MetersToFeetConverter\\MetersToFeetConverter\\Program.cs",
+              "RelativeDocumentMoniker": "MetersToFeetConverter\\Program.cs",
+              "ToolTip": "C:\\Users\\lacav\\Documents\\Cursos\\C#\\CSharpPracticeProjects\\MetersToFeetConverter\\MetersToFeetConverter\\Program.cs",
+              "RelativeToolTip": "MetersToFeetConverter\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:14:29.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
