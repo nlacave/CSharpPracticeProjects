@@ -1,0 +1,26 @@
+# Archivos de compilación y binarios
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.app
+
+# Configuración de usuario en Visual Studio y VS Code
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Paquetes NuGet y dependencias
+packages/
+*.nupkg
+project.lock.json
+
+# Archivos temporales y de caché
+*.log
+*.tmp
+
+# Configuración del entorno de desarrollo
+.env
+secrets.json
