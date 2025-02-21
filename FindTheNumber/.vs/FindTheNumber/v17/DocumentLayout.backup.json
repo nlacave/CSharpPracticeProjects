@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lacav\\Documents\\Cursos\\C#\\CSharpPracticeProjects\\FindTheNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAD7BCC-58A2-4476-A6CD-A8ADB4770580}|FindTheNumber\\FindTheNumber.csproj|c:\\users\\lacav\\documents\\cursos\\c#\\csharppracticeprojects\\findthenumber\\findthenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAD7BCC-58A2-4476-A6CD-A8ADB4770580}|FindTheNumber\\FindTheNumber.csproj|solutionrelative:findthenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lacav\\Documents\\Cursos\\C#\\CSharpPracticeProjects\\FindTheNumber\\FindTheNumber\\Program.cs",
+              "RelativeDocumentMoniker": "FindTheNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\lacav\\Documents\\Cursos\\C#\\CSharpPracticeProjects\\FindTheNumber\\FindTheNumber\\Program.cs",
+              "RelativeToolTip": "FindTheNumber\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:03:50.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
