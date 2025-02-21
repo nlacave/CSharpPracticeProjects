@@ -6,6 +6,7 @@ while (true)
     var option = Console.ReadKey();
     bool play = false;
     bool exit = false;
+    int count = 0;
     if (option.Key == ConsoleKey.P)
     {
         play = true;
@@ -31,10 +32,13 @@ while (true)
                 Console.WriteLine("Invalid input. Please enter a valid number.");
                 continue;
             }
-            else if (selectedNumber == number)
+
+            count++;
+
+            if (selectedNumber == number)
             {
                 gameWon = true;
-                Console.WriteLine("You found the number. Congratulations!");
+                Console.WriteLine($"You found the number in {count} times. Congratulations!");
                 Console.WriteLine("Press any key to clean the console...");
                 Console.ReadKey();
                 Console.Clear();
